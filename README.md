@@ -1,0 +1,1 @@
+# simple-page-rick-and-morty
