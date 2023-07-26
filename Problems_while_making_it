@@ -1,0 +1,20 @@
+#Problems_while_making_it
+
+In the beginningnthe whole site was made with a template from "HTML5UP" page. 
+
+When I tried to run it on render for free the site was crushing (error 502) when the user tried to send his message.
+
+After some digging I found that other people hade the same problem.
+
+I tried to run the site on "pythonanywhere.com" but the problem there was that there were too many files for the free version to handle.
+
+Due to the fact that I didn't want to spent too much time on the project, but I didn't want to pay any major amount on any service,
+I went with a hybrid solution.
+
+//The main page made with an "HTML5UP" template ("https://rick-and-morty-only-for-learning.onrender.com/") is running on "render".
+//When the user clicks on "Contact Us" he is transfered to a different, simpler site, made solely by me ("https://nikosdouras123.pythonanywhere.com/contact").
+  The second site is uploaded to "pythonanywhere.com".
+
+If I was willing to spent more time, or some money on the project, probably I could have solved the problem the "right" way. 
+
+But for now, I 'm happy with the result.
